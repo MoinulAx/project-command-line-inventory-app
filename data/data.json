@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4,
+    "name": "meep",
+    "priceInCents": 20,
+    "inStock": false
+  },
+  {
+    "id": 5,
+    "name": "charger",
+    "priceInCents": 1599,
+    "inStock": false
+  },
+  {
+    "id": 6,
+    "name": "charger",
+    "priceInCents": 1599,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "charger",
+    "priceInCents": 1599,
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "name": "meep",
+    "priceInCents": null,
+    "inStock": false
+  },
+  {
+    "id": 9,
+    "name": "meep",
+    "priceInCents": null,
+    "inStock": false
+  }
+]

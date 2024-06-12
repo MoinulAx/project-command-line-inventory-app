@@ -1,0 +1,33 @@
+{
+  "name": "project-command-line-inventory-app",
+  "version": "1.0.0",
+  "description": "inventory app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "index": "node index.js index",
+    "create": "node index.js create",
+    "show": "node index.js show",
+    "show-all": "node index.js show-all",
+    "delete": "node index.js delete",
+    "update": "node index.js update",
+    "add-to-cart": "node index.js add-to-cart",
+    "view-cart": "node index.js view-cart",
+    "cancel-cart": "node index.js cancel-cart"
+  },
+  "keywords": [],
+  "author": "Manny",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-spinners": "^2.9.1",
+    "cli-table": "^0.3.11",
+    "figlet": "^1.6.0",
+    "inquirer": "^8.2.6",   
+     "locats": "^1.0.0",
+    "nanoid": "^3.3.6"
+  },
+  "devDependencies": {
+    "cli-spinners": "^3.0.0"
+  }
+}
